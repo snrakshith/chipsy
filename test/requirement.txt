@@ -1,0 +1,6 @@
+Version's
+python - 3.7.1
+sly  - 3.8
+sly package contains lex and yacc:
+    1. Lex does lexer
+    2. Yacc does Parser
